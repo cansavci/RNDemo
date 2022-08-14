@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import SwiperComponent from './.expo/SwiperComponent';
+import SwiperComponent from './SwiperComponent';
 import data from './json/productResults.json';
 import SimpleCard from './SimpleCard';
 import { NativeBaseProvider, Box } from "native-base";
